@@ -1,6 +1,6 @@
-"""
+/*
 Written By Daniel Mikula
-"""
+*/
 import Foundation
 
 func guessing_game(random: Int) -> String
